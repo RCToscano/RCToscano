@@ -4,6 +4,6 @@ Possuo experiência em todas as etapas de criação de um sistema, desde reuniõ
 
 Em minha trajetória participei de sistemas que exigiam máxima performance por se tratarem de middlewares, orquestradores de transações com integrações em filas (IBM MQ), WebService SOAP e REST Api. Participei, também, de e-commerce e sistemas backoffice.
 
-Além do desenvolvimento, atuei part-time como Líder Técnico ajudando na transcrição, planejamento e controle das atividades do time. Tal como análise de código e bugs de sustentação.
+Além do desenvolvimento, estou atualmente como Tech Manager/Tech Lead ajudando na transcrição, planejamento, controle das atividades e gerenciamento do time. Tal como análise de código e bugs de sustentação.
 
 Sou apaixonado pelo que faço e ver tudo que a programação me proporciona, como a criação de sistemas totalmente únicos e a possibilidade da resolução de problemas me trazem muita satisfação.
