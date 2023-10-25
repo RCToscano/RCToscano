@@ -1,4 +1,4 @@
-Olá! Sou formado em Ciência da Computação e atuo como desenvolvedor Full Stack há 11 anos. Minhas maiores habilidades são em Java e Angular.
+Olá! Sou formado em Ciência da Computação e atuo como desenvolvedor Full Stack desde 2011. Minhas maiores habilidades são em Java e Angular.
 
 Possuo experiência em todas as etapas de criação de um sistema, desde reuniões com clientes para captação das informações, concepção e entrega do mesmo. Tenho ótimos conhecimentos no desenvolvimento de sistemas em Java, na utilização de servidores de aplicação como JBoss e Apache, criação de SPA em Angular e bancos de dados como Oracle, PostgreSQL e MySQL.
 
